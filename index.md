@@ -13,8 +13,13 @@ Entonces, plasmando este problema en pacientes de diabetes, se puede deducir que
 En  uestro país el índice de diabétes es del 8%, la mayor parte de la población con diabetes pertenece a la población economicamente activa de la zona urbana.
 
 
-# Header 1
-## Header 2
+# Diabetes en personas de la tercera edad
+
+La diabetes puede ser una enfermedad a veces un poco tediosa, sin embargo, aun más en personas de la tercera edad
+## ¿Qué proponemos?
+
+Nuestra propuesta de solución consiste en un dispositivo interactivo parecido al famoso Tamagotchi el cual consistirá en que cada paciente tendrá por asignación un “amiguito” el cual reflejara sus situaciones en cuanto a la enfermedad, este “amiguito” puede empeorarse, enfermarse e incluso morir dándole a conocer al paciente los riesgos que presenta dependiendo de las actividades que incumpla. El dispositivo “My Sweet Friend” tiene la función de muchas aplicaciones existentes en una de una manera interactiva y divertida para entretener al paciente y hacer su enfermedad algo mas dinámico para él.
+
 ### Header 3
 
 - Bulleted
