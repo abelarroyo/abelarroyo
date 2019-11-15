@@ -1,15 +1,17 @@
-## Welcome to GitHub Pages
+## Diabetes aburrida y pesada
 
-You can use the [editor on GitHub](https://github.com/abelarroyo/abelarroyo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Sabemos que la salud es el estado completo de bienestar físico, psicológico y social
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+La problemática en la que nuestro equipo ha decidido enfocarse es la insuficiente gestión psicológica de pacientes con diabetes tipo 2.
 
-### Markdown
+En este caso sabemos que una persona inestable psicológicamente no es una persona sana; ya que, esta inestabilidad puede presentar complicaciones en su desarrollo personal y entorno.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Entonces, plasmando este problema en pacientes de diabetes, se puede deducir que esto generaría una complicación en su tratamiento y puede producirse un mayor deterioro de estos.
 
-```markdown
-Syntax highlighted code block
+### Diabetes en el Perú
+
+En  uestro país el índice de diabétes es del 8%, la mayor parte de la población con diabetes pertenece a la población economicamente activa de la zona urbana.
+
 
 # Header 1
 ## Header 2
